@@ -31,14 +31,20 @@ Simple, clean, and efficient UI for easy navigation and quick actions.
 
 ---
 
+## 📽️ Screen Shot
+
+<a>
+  <img src="Thumbnail.png"  width="600"/>
+</a>
+
+---
+
 ## 📽️ Video Tutorial
 👉 Click the image below to watch the tutorial on YouTube
 
-<a href="https://youtu.be/Zd4nnc1Ktck">
-  <img src="Thumbnail.png" alt="Watch the video" width="600"/>
-</a>
+[![Watch the tutorial video](https://img.youtube.com/vi/Zd4nnc1Ktck/0.jpg)](https://youtu.be/Zd4nnc1Ktck)
 
-
+---
 
 ## 💻 Installation & Usage
 
