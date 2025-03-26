@@ -42,7 +42,7 @@ Simple, clean, and efficient UI for easy navigation and quick actions.
 ## 📽️ Video Tutorial
 👉 Click the image below to watch the tutorial on YouTube
 
-[![Watch the tutorial video](https://img.youtube.com/vi/Zd4nnc1Ktck/0.jpg)](https://youtu.be/Zd4nnc1Ktck)
+[![Watch the video](https://img.youtube.com/vi/XMlVYoliVCo/maxresdefault.jpg)](https://youtu.be/XMlVYoliVCo)
 
 ---
 
