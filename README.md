@@ -34,7 +34,7 @@ Simple, clean, and efficient UI for easy navigation and quick actions.
 ## 📽️ Video Tutorial
 👉 Click the image below to watch the tutorial on YouTube
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+<a href="https://youtu.be/Zd4nnc1Ktck">
   <img src="Thumbnail.png" alt="Watch the video" width="600"/>
 </a>
 
