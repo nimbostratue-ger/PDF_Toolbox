@@ -7,8 +7,8 @@
 ✅ **Convert to PDF**  
 Easily select multiple files and convert them into PDF format.
 
-✅ **Merge & Rearrange Pages**  
-Merge pages from different files, rearrange them as needed, and save the new combined file as PDF.
+✅ **Merge, Rearrange, and rotate Pages**  
+Merge pages from different files, rearrange and rotate them as needed, and save the new combined file as PDF.
 
 ✅ **Extract Pages**  
 - Extract single pages or a range of pages.
